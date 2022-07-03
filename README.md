@@ -1,2 +1,3 @@
 # AI-powered-Virtual-Mouse
- Virtual Mouse Using python.
+ Virtual Mouse Using python | opencv
+ 
